@@ -1,0 +1,26 @@
+body{
+    width: 250px;
+    height: 220px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+  color: #1dbdbb;
+  border: 1px solid lightblue;
+  display: inline-flex;
+  font-size: 20px;
+}
+
+p{
+    display: inline-flex;
+    margin: auto;
+    font-size: 22px;
+    color:green;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
+
+
